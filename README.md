@@ -1,6 +1,6 @@
 #Slots Game
 
-大型 欧美slot slots 游戏. 服务器 go，客户端unity 数据库 mysql ......
+大型 欧美slot slots 游戏源码. 服务器 go，客户端unity 数据库 mysql ......
 需要联系qq:1628173075 email:good88688@qq.com
 
 ![Alt text](2.JPG?raw=true "Slots Game")
